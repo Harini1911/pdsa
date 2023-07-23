@@ -3,6 +3,7 @@
 
 - Refer this website for Recurrence Relation : https://algorithmtutor.com/Analysis-of-Algorithm/Recurrence-Relation/
 - O (2<sup>N</sup>) runtime complexities are often seen in recursive functions that make 2 recursive calls and pass in the problem size of N-1.
+
 Website: https://dev.to/lofiandcode/big-o-part-5-2-n-2ifn
 
 ![Alt text](image-2.png)
